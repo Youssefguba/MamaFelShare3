@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "39746015225",
+    "firebase_url": "https://mamafelshare3.firebaseio.com",
+    "project_id": "mamafelshare3",
+    "storage_bucket": "mamafelshare3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39746015225:android:77f9cefa386f6bd8",
+        "android_client_info": {
+          "package_name": "com.example.youssef.mamafelshare3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39746015225-5j9cijkgubs19l968dlm93odrifjshla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youssef.mamafelshare3",
+            "certificate_hash": "768a4db9859f20269ce5666e39faeb9ae0b30410"
+          }
+        },
+        {
+          "client_id": "39746015225-s4npi09i4079l9fbocphm72aua1issvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBfDhUG3PXFKwf_-mzQXlmN7I_Tn4WR5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39746015225-s4npi09i4079l9fbocphm72aua1issvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
